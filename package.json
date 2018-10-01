@@ -6,6 +6,7 @@
   "author": "The Polymer Project Authors",
   "license": "BSD-3-Clause",
   "dependencies": {
+    "@em-polymer/google-map": "^3.0.0-pre.5",
     "@polymer/paper-checkbox": "latest",
     "@polymer/polymer": "latest",
     "@webcomponents/webcomponentsjs": "latest"
